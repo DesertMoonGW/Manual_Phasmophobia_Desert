@@ -1,0 +1,1308 @@
+[
+  {
+    
+		"name": "6 Tanglewood Drive - Main Objective",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Optional Objective #1",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Optional Objective #2",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Optional Objective #3",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Main Objective",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Optional Objective #1",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Optional Objective #2",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Optional Objective #3",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Main Objective",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Optional Objective #1",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Optional Objective #2",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Optional Objective #3",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  {
+    
+		"name": "13 Willow Street - Main Objective",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street|"
+  },
+  {
+    
+		"name": "13 Willow Street - Optional Objective #1",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street|"
+  },
+  {
+    
+		"name": "13 Willow Street - Optional Objective #2",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street|"
+  },
+  {
+    
+		"name": "13 Willow Street - Optional Objective #3",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street|"
+  },
+  {
+    
+		"name": "Brownstone High School - Main Objective",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School|"
+  },
+  {
+    
+		"name": "Brownstone High School - Optional Objective #1",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School|"
+  },
+  {
+    
+		"name": "Brownstone High School - Optional Objective #2",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School|"
+  },
+  {
+    
+		"name": "Brownstone High School - Optional Objective #3",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Main Objective",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Optional Objective #1",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Optional Objective #2",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Optional Objective #3",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Main Objective",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Optional Objective #1",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Optional Objective #2",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Optional Objective #3",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  {
+    
+		"name": "Prison - Main Objective",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison|"
+  },
+  {
+    
+		"name": "Prison - Optional Objective #1",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison|"
+  },
+  {
+    
+		"name": "Prison - Optional Objective #2",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison|"
+  },
+  {
+    
+		"name": "Prison - Optional Objective #3",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Main Objective",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Optional Objective #1",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Optional Objective #2",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Optional Objective #3",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Main Objective",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Optional Objective #1",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Optional Objective #2",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Optional Objective #3",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  {
+    
+		"name": "VICTORY (Main Objective on all maps)",
+    
+		"victory": true,
+    
+		"category": [],
+    
+		"requires": "|6 Tanglewood Drive| AND |10 Ridgeview Court| AND |13 Willow Street| AND |42 Edgefield Road| AND |Bleasdale Farmhouse| AND |Camp Woodwind| AND |Grafton Farmhouse| AND |Point Hope| AND |Maple Lodge Campsite| AND |Prison| AND |Brownstone High School| AND |Sunny Meadows|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Bone",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Ghost Photo",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - 3 Star Non-Ghost Photo",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Use Cursed Object",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  {
+    
+		"name": "6 Tanglewood Drive - Perfect Investigation",
+    
+		"region": "6 Tanglewood Drive",
+    
+		"category": [
+      "6 Tanglewood Drive"
+    ],
+    
+		"requires": "|6 Tanglewood Drive| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Main Objective",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Optional Objective #1",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Optional Objective #2",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Optional Objective #3",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Bone",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Ghost Photo",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - 3 Star Non-Ghost Photo",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Use Cursed Object",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  {
+    
+		"name": "10 Ridgeview Court - Perfect Investigation",
+    
+		"region": "10 Ridgeview Court",
+    
+		"category": [
+      "10 Ridgeview Court"
+    ],
+    
+		"requires": "|10 Ridgeview Court| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "13 Willow Street - Bone",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street|"
+  },
+  {
+    
+		"name": "13 Willow Street - Ghost Photo",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "13 Willow Street - 3 Star Non-Ghost Photo",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "13 Willow Street - Use Cursed Object",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street|"
+  },
+  {
+    
+		"name": "13 Willow Street - Perfect Investigation",
+    
+		"region": "13 Willow Street",
+    
+		"category": [
+      "13 Willow Street"
+    ],
+    
+		"requires": "|13 Willow Street| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Bone",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Ghost Photo",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - 3 Star Non-Ghost Photo",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Use Cursed Object",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  {
+    
+		"name": "42 Edgefield Road - Perfect Investigation",
+    
+		"region": "42 Edgefield Road",
+    
+		"category": [
+      "42 Edgefield Road"
+    ],
+    
+		"requires": "|42 Edgefield Road| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Bone",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Ghost Photo",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - 3 Star Non-Ghost Photo",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Use Cursed Object",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  {
+    
+		"name": "Bleasdale Farmhouse - Perfect Investigation",
+    
+		"region": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Bleasdale Farmhouse"
+    ],
+    
+		"requires": "|Bleasdale Farmhouse| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Bone",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Ghost Photo",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Camp Woodwind - 3 Star Non-Ghost Photo",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Use Cursed Object",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  {
+    
+		"name": "Camp Woodwind - Perfect Investigation",
+    
+		"region": "Camp Woodwind",
+    
+		"category": [
+      "Camp Woodwind"
+    ],
+    
+		"requires": "|Camp Woodwind| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Bone",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Ghost Photo",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - 3 Star Non-Ghost Photo",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Use Cursed Object",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  {
+    
+		"name": "Grafton Farmhouse - Perfect Investigation",
+    
+		"region": "Grafton Farmhouse",
+    
+		"category": [
+      "Grafton Farmhouse"
+    ],
+    
+		"requires": "|Grafton Farmhouse| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Survive a Hunt",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Ghost Photo",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - 3 Star Non-Ghost Photo",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - Use Cursed Object",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  {
+    
+		"name": "Maple Lodge Campsite - $50+ Photo Reward",
+    
+		"region": "Maple Lodge Campsite",
+    
+		"category": [
+      "Maple Lodge Campsite"
+    ],
+    
+		"requires": "|Maple Lodge Campsite| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Prison - Survive a Hunt",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison|"
+  },
+  {
+    
+		"name": "Prison - Ghost Photo",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Prison - 3 Star Non-Ghost Photo",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Prison - Use Cursed Object",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison|"
+  },
+  {
+    
+		"name": "Prison - $50+ Photo Reward",
+    
+		"region": "Prison",
+    
+		"category": [
+      "Prison"
+    ],
+    
+		"requires": "|Prison| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Brownstone High School - Survive a Hunt",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School|"
+  },
+  {
+    
+		"name": "Brownstone High School - Ghost Photo",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Brownstone High School - 3 Star Non-Ghost Photo",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Brownstone High School - Use Cursed Object",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School|"
+  },
+  {
+    
+		"name": "Brownstone High School - $50+ Photo Reward",
+    
+		"region": "Brownstone High School",
+    
+		"category": [
+      "Brownstone High School"
+    ],
+    
+		"requires": "|Brownstone High School| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Survive a Hunt",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Ghost Photo",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Sunny Meadows - 3 Star Non-Ghost Photo",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Sunny Meadows - Use Cursed Object",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  {
+    
+		"name": "Sunny Meadows - $50+ Photo Reward",
+    
+		"region": "Sunny Meadows",
+    
+		"category": [
+      "Sunny Meadows"
+    ],
+    
+		"requires": "|Sunny Meadows| AND |+1 Photo Camera|"
+  },
+  {
+    
+		"name": "Point Hope - Main Objective",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Optional Objective #1",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Optional Objective #2",
+    
+		"region": "Starting Region",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Optional Objective #3",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Bone",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Ghost Photo",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - 3 Star Non-Ghost Photo",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Use Cursed Object",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  },
+  {
+    
+		"name": "Point Hope - Perfect Investigation",
+    
+		"region": "Point Hope",
+    
+		"category": [
+      "Point Hope"
+    ],
+    
+		"requires": "|Point Hope|"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "Starting Region": {
+    
+		"starting": true,
+    
+		"connects_to": [
+      "6 Tanglewood Drive",
+      "Prison",
+      "Sunny Meadows",
+      "42 Edgefield Road",
+      "Grafton Farmhouse",
+      "13 Willow Street",
+      "Brownstone High School",
+      "Bleasdale Farmhouse",
+      "10 Ridgeview Court",
+      "Point Hope"
+    ],
+    
+		"requires": []
+  },
+  "6 Tanglewood Drive": {
+    
+		"connects_to": [],
+    
+		"requires": "|6 Tanglewood Drive|"
+  },
+  "42 Edgefield Road": {
+    
+		"connects_to": [],
+    
+		"requires": "|42 Edgefield Road|"
+  },
+  "Grafton Farmhouse": {
+    
+		"connects_to": [],
+    
+		"requires": "|Grafton Farmhouse|"
+  },
+  "13 Willow Street": {
+    
+		"connects_to": [],
+    
+		"requires": "|13 Willow Street|"
+  },
+  "Brownstone High School": {
+    
+		"connects_to": [],
+    
+		"requires": "|Brownstone High School|"
+  },
+  "Bleasdale Farmhouse": {
+    
+		"connects_to": [],
+    
+		"requires": "|Bleasdale Farmhouse|"
+  },
+  "Sunny Meadows": {
+    
+		"connects_to": [],
+    
+		"requires": "|Sunny Meadows|"
+  },
+  "Prison": {
+    
+		"connects_to": [],
+    
+		"requires": "|Prison|"
+  },
+  "Maple Lodge Campsite": {
+    
+		"connects_to": [],
+    
+		"requires": "|Maple Lodge Campsite|"
+  },
+  "Camp Woodwind": {
+    
+		"connects_to": [],
+    
+		"requires": "|Camp Woodwind|"
+  },
+  "10 Ridgeview Court": {
+    
+		"connects_to": [],
+    
+		"requires": "|10 Ridgeview Court|"
+  },
+  "Point Hope": {
+    
+		"connects_to": [],
+    
+		"requires": "|Point Hope|"
+  }
+}

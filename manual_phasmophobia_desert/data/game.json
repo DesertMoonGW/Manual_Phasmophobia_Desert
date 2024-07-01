@@ -1,0 +1,14 @@
+{
+  "$schema": "https: //github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Phasmophobia",
+  "creator": "Desert",
+  "filler_item_name": "Boo!",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Small Maps"
+      ],
+      "random":  1
+    }
+  ]
+}

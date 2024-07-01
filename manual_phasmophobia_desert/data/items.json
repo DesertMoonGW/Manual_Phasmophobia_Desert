@@ -1,0 +1,638 @@
+[
+  {
+    
+		"count":  1,
+    
+		"name": "42 Edgefield Road",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "10 Ridgeview Court",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Grafton Farmhouse",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "13 Willow Street",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Brownstone High School",
+    
+		"category": [
+      "Locations",
+      "Medium/Large Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Bleasdale Farmhouse",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Sunny Meadows",
+    
+		"category": [
+      "Locations",
+      "Medium/Large Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Prison",
+    
+		"category": [
+      "Locations",
+      "Medium/Large Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Maple Lodge Campsite",
+    
+		"category": [
+      "Locations",
+      "Medium/Large Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Camp Woodwind",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade D.O.T.S. Projector",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Flashlight",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Spirit Box",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade UV Light",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade EMF Reader",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Ghost Writing Book",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Thermometer",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Video Camera",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "+1 D.O.T.S. Projector",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "+1 EMF Reader",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "+1 Flashlight",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "+1 Ghost Writing Book",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "+1 Spirit Box",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "+1 Thermometer",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "+1 UV Light",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "+1 Video Camera",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "+1 Crucifix",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Firelight",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Head Gear",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Igniter",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Incense",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Motion Sensor",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "+1 Parabolic Microphone",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "+1 Photo Camera",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "3",
+    
+		"name": "+1 Salt",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Sanity Medication",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Sound Sensor",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "4",
+    
+		"name": "+1 Tripod",
+    
+		"category": [
+      "Additional Equipment"
+    ],
+    
+		"filler": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Crucifix",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Head Gear",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Incense",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Parabolic Microphone",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Salt",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Sound Sensor",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Firelight",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Igniter",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Motion Sensor",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Photo Camera",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Sanity Medication",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count": "2",
+    
+		"name": "Upgrade Tripod",
+    
+		"category": [
+      "Upgrades"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "6 Tanglewood Drive",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Point Hope",
+    
+		"category": [
+      "Locations",
+      "Small Maps"
+    ],
+    
+		"progression": true
+  }
+]
